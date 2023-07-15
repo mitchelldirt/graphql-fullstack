@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@pothos/core": "^3.30.0",
+    "graphql": "^16.7.1",
+    "graphql-yoga": "^4.0.3"
+  }
+}
